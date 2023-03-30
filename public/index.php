@@ -7,3 +7,4 @@ use Core\Teste;
 $teste = new Teste();
 echo $teste->poll();
 
+echo __DIR__;
