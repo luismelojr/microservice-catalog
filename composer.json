@@ -1,0 +1,16 @@
+{
+    "name": "luismelojr/microservice-catalog",
+    "description": "App With PHP 8 - Microservice Catalog Video",
+    "authors": [
+        {
+            "name": "Luis Henrique",
+            "email": "junimhs10@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
